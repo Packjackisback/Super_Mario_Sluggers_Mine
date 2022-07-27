@@ -1,0 +1,5 @@
+     0x8 = files/*.bnr
+ 0x20000 = files/*.dat
+     0x8 = files/movie/*.thp
+    0x40 = files/sound_NA/*.brsar
+    0x20 = files/sound_NA/stream/*.brstm

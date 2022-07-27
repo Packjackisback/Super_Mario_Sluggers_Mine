@@ -1,0 +1,5 @@
+DISC_TYPE="Wii"
+IMAGE_TYPE="WBFS"
+IMAGE_EXT="wbfs"
+PART_ID="RMBE01"
+PART_NAME="Mario Super Sluggers"
